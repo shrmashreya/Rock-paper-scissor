@@ -1,3 +1,5 @@
+# this is basic version of rps game which can only be run on terminal
+
 import random 
 
 # Rock
